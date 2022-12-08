@@ -5,6 +5,7 @@
 # define HEIGHT 500
 
 # define KEY_ESC 53
+# define ON_DESTROY 17
 # define TRUE 1
 # define FALSE 0
 
